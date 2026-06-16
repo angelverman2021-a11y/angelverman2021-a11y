@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Angel+Verman+%F0%9F%91%8B;Full+Stack+%26+Backend+Developer;AI+%2F+ML+Builder;I+ship+things+that+actually+work." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Angel+Verman;Full+Stack+Developer;Backend+Enthusiast;Builder+of+Things" alt="Typing SVG" />
 
 <br/>
 
-### First-year CS student · 7 shipped projects · AI + Accessibility + Backend
-
-*I build AI-powered tools, accessible web apps, and backend systems — from idea to deployed product.*
+**First-year CS student turning ideas into accessible, intelligent web experiences — one commit at a time.**
 
 <br/>
 
@@ -15,15 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%237B2FFF.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/angelverman2021-a11y)
 
 </div>
-
----
-
-### What I Build
-
-| 🤖 AI / LLM Tools | ♿ Accessibility | 🔧 Full Stack & Backend |
-|---|---|---|
-| LLM-powered apps with Gemini, LLaMA & Groq | WCAG-compliant UIs & browser extensions | FastAPI + Node.js + React + Supabase |
-| NLP with DistilBERT, TextBlob, scikit-learn | Real-time adaptive UI (NeuroAdaptive) | REST APIs, WebSockets, auth, cloud sync |
 
 ---
 
@@ -36,109 +25,14 @@ const angel = {
   certified: ["Python"],
   learning:  "Always.",
   building:  "Projects that solve real problems.",
-  shipped:   ["Skillyn AI", "DuskyDiary", "Synapse X", "Phish Busters", "NeuroAdaptive", "Luna", "Lunar Playlist Craft"],
 };
 ```
 
-- 🎓 First-year CS student — already shipped **7 full projects**
-- 🤖 Built AI tools using **Gemini**, **LLaMA**, **Groq API**, **DistilBERT**, **Random Forest**
-- ♿ Strong focus on **accessibility** — WCAG standards, Shadow DOM, adaptive UI
-- 🔐 Interested in **cybersecurity** — built a gamified phishing detection Chrome extension
-- ⚡ Backend-first: **FastAPI**, **Node.js**, **WebSockets**, **JWT auth**, **MongoDB**, **Supabase**
-
----
-
-### 🏆 Spotlight Projects
-
-> These 3 represent the depth and range of what I can build.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎯 Skillyn AI</h3>
-      <p><strong>AI mock interview platform</strong> — 7 round types, Gemini-personalized questions, real-time webcam proctoring, voice analysis, and PDF performance reports.</p>
-      <p><em>My work: FastAPI backend · real-time interview engine · WebSocket proctoring · Gemini integration</em></p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSocket-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-      <a href="https://skillynai-utpb.onrender.com/">🚀 Live Demo</a> · <a href="https://github.com/sikshitij/Skillynai">Repo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📍 DuskyDiary</h3>
-      <p><strong>Community-driven travel safety app</strong> — users write diary entries, DistilBERT detects mood, Random Forest predicts location safety. Compare routes by sentiment score.</p>
-      <p>
-        <img src="https://img.shields.io/badge/DistilBERT-7B2FFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://duskydiaryapp-cvmnevt7plgo5t7td5yotd.streamlit.app/">🚀 Live Demo</a> · <a href="https://github.com/angelverman2021-a11y/duskydiaryapp">Repo</a>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 Synapse X</h3>
-      <p><strong>Productivity neural map</strong> — visualize your life as a graph of people, places & activities. Drag-and-drop nodes, hour-by-hour timetable, 52-week heatmap, cloud sync.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/React_Flow-7B2FFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <a href="https://synnaapsex.netlify.app/">🚀 Live Demo</a> · <a href="https://github.com/angelverman2021-a11y/SynapseX">Repo</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### More Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Phish Busters</h3>
-      <p>Gamified Chrome extension for real-time phishing detection. Scans Gmail, Outlook & WhatsApp Web with India-specific scam patterns and an XP-based learning system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/LLaMA_Groq-7B2FFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-      <a href="https://youtu.be/ximEWen_z-4">▶ Watch Demo</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>♿ NeuroAdaptive (Neuros)</h3>
-      <p>Browser accessibility layer that auto-adapts font, spacing & contrast based on real-time user friction signals. Fully local — zero data transmitted.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Shadow_DOM-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/WCAG_A11y-34D399?style=flat-square" />
-      </p>
-      <a href="https://youtu.be/6Vh97BrifAQ">▶ Watch Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Luna — AI Workflow Assistant</h3>
-      <p>Multi-mode AI assistant powered by LLaMA. Adapts across Study, Code, Job, and Entrepreneur workflows — your personal co-pilot for every task.</p>
-      <p>
-        <img src="https://img.shields.io/badge/LLaMA-7B2FFF?style=flat-square" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎵 Lunar Playlist Craft</h3>
-      <p>AI-powered mood-based playlist generator with a retro pixel space UI. Features an interactive Luna AI chat assistant — no login, no cloud required.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/LocalStorage-A78BFA?style=flat-square" />
-        <img src="https://img.shields.io/badge/AI_Assistant-34D399?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+- First-year CS student passionate about full stack & backend development
+- Building AI-powered tools using **LLaMA** and **Groq API**
+- Strong focus on **accessibility** and **WCAG** standards
+- Interested in **cybersecurity** and browser extension development
+- Currently exploring **React**, **Node.js**, and **LLM integrations**
 
 ---
 
@@ -155,27 +49,69 @@ const angel = {
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 **AI & Data**
 
 ![LLaMA](https://img.shields.io/badge/LLaMA-7B2FFF?style=flat-square&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_API-34D399?style=flat-square&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![DistilBERT](https://img.shields.io/badge/DistilBERT-7B2FFF?style=flat-square&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Chrome Extension](https://img.shields.io/badge/Chrome_Extension_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
 ![A11y](https://img.shields.io/badge/WCAG_A11y-A78BFA?style=flat-square&logoColor=white)
+
+---
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Luna — AI Workflow Assistant</h3>
+      <p>Multi-mode AI assistant powered by LLaMA. Adapts intelligently across <strong>Study</strong>, <strong>Code</strong>, <strong>Job</strong>, and <strong>Entrepreneur</strong> workflows — your personal co-pilot for every task.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LLaMA-7B2FFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Phish Busters</h3>
+      <p>Gamified Chrome extension for real-time phishing detection. Scans Gmail, Outlook & WhatsApp Web with India-specific scam patterns and an XP-based learning system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLaMA_Groq-7B2FFF?style=flat-square" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      </p>
+      <a href="https://youtu.be/ximEWen_z-4">Watch Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>NeuroAdaptive (Neuros)</h3>
+      <p>Browser accessibility layer that auto-adapts font, spacing & contrast based on real-time user friction signals. Fully local — zero data transmitted.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Shadow_DOM-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Manifest_V3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/WCAG_A11y-34D399?style=flat-square" />
+      </p>
+      <a href="https://youtu.be/6Vh97BrifAQ">Watch Demo</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Lunar Playlist Craft</h3>
+      <p>AI-powered mood-based playlist generator with a retro pixel space UI. Features an interactive Luna AI chat assistant — no login, no cloud required.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/LocalStorage-A78BFA?style=flat-square" />
+        <img src="https://img.shields.io/badge/AI_Assistant-34D399?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -208,6 +144,6 @@ const angel = {
 
 <br/>
 
-*"First-year CS student. Seven shipped projects. Just getting started."*
+*"Building accessible and innovative web applications — one project at a time."*
 
 </div>
