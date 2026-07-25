@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="50%" alt="banner" />
+<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="25%" height="200px" alt="banner" />
 
 <br/>
 
@@ -45,7 +45,7 @@
 
 </div>
 
-<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
+<hr style="border:1px solid #FFB6C1;" />
 
 **✦ 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -55,7 +55,7 @@
 
 **✦ 𝖳𝗈𝗈𝗅𝗌** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![A11y](https://img.shields.io/badge/WCAG_A11y-FFB6C1?style=flat-square&logoColor=black)
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<hr style="border:1px solid #FFB6C1;" />
 
 <br/>
 
