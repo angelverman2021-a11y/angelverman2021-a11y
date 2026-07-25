@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="100%" alt="banner" />
+<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="50%" alt="banner" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 𝖥𝗎𝗅𝗅 𝖲𝗍𝖺𝖼𝗄 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 · 𝖠𝖨 𝖤𝗇𝗍𝗁𝗎𝗌𝗂𝖺𝗌𝗍 · 𝖠𝖼𝖼𝖾𝗌𝗌𝗂𝖻𝗂𝗅𝗂𝗍𝗒 𝖠𝖽𝗏𝗈𝖼𝖺𝗍𝖾
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 ୨ৎ 𝖥𝗂𝗋𝗌𝗍-𝗒𝖾𝖺𝗋 𝖢𝖲 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 · 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 & 𝖻𝖺𝖼𝗄𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍
 
@@ -23,7 +23,7 @@
 
 ୨ৎ 𝖥𝗈𝖼𝗎𝗌𝖾𝖽 𝗈𝗇 **𝖶𝖢𝖠𝖦 𝖺𝖼𝖼𝖾𝗌𝗌𝗂𝖻𝗂𝗅𝗂𝗍𝗒**, **𝖼𝗒𝖻𝖾𝗋𝗌𝖾𝖼𝗎𝗋𝗂𝗍𝗒** & **𝗀𝖾𝗈𝗌𝗉𝖺𝗍𝗂𝖺𝗅 𝗌𝗒𝗌𝗍𝖾𝗆𝗌**
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=github&logoColor=black)](https://angelverman2021-a11y.github.io)
 [![Email](https://img.shields.io/badge/Email-%23FFB6C1.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:angel.verman2021@gmail.com)
@@ -45,7 +45,7 @@
 
 </div>
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 **✦ 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
@@ -67,7 +67,7 @@
 
 </div>
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 <table>
   <tr>
@@ -86,25 +86,25 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/angelverman2021-a11y/grip">𝖦𝖱𝖨𝖯 — 𝖦𝖾𝗈𝖱𝖾𝗌𝗈𝗎𝗋𝖼𝖾 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾</a></h3>
+      <h3><a href="https://github.com/angelverman2021-a11y/grip" style="color:#FFB6C1">𝖦𝖱𝖨𝖯 — 𝖦𝖾𝗈𝖱𝖾𝗌𝗈𝗎𝗋𝖼𝖾 𝖨𝗇𝗍𝖾𝗅𝗅𝗂𝗀𝖾𝗇𝖼𝖾</a></h3>
       <p>𝖦𝖾𝗈𝗌𝗉𝖺𝗍𝗂𝖺𝗅 𝖽𝖾𝖼𝗂𝗌𝗂𝗈𝗇 𝗉𝗅𝖺𝗍𝖿𝗈𝗋𝗆 𝗐𝗂𝗍𝗁 9 𝗁𝖾𝖺𝗍𝗆𝖺𝗉 𝗅𝖺𝗒𝖾𝗋𝗌, 𝗋𝖺𝖽𝖺𝗋 𝖼𝗁𝖺𝗋𝗍𝗌, 𝖻𝗎𝗅𝗄 𝖢𝖲𝖵 𝗎𝗉𝗅𝗈𝖺𝖽 & 𝖠𝖨-𝗋𝖺𝗇𝗄𝖾𝖽 𝖯𝖣𝖥 𝗋𝖾𝗉𝗈𝗋𝗍𝗌.</p>
       <p><img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/angelverman2021-a11y/RecruitOS-AI">𝖱𝖾𝖼𝗋𝗎𝗂𝗍𝖮𝖲-𝖠𝖨</a></h3>
+      <h3><a href="https://github.com/angelverman2021-a11y/RecruitOS-AI" style="color:#FFB6C1">𝖱𝖾𝖼𝗋𝗎𝗂𝗍𝖮𝖲-𝖠𝖨</a></h3>
       <p>𝖠𝖨-𝗉𝗈𝗐𝖾𝗋𝖾𝖽 𝗋𝖾𝖼𝗋𝗎𝗂𝗍𝗆𝖾𝗇𝗍 𝖾𝖼𝗈𝗌𝗒𝗌𝗍𝖾𝗆 𝗐𝗂𝗍𝗁 𝗆𝗂𝖼𝗋𝗈𝗌𝖾𝗋𝗏𝗂𝖼𝖾𝗌, 𝖱𝖠𝖦-𝖻𝖺𝗌𝖾𝖽 𝗆𝖺𝗍𝖼𝗁𝗂𝗇𝗀, 𝖠𝖨 𝗋𝖾𝗌𝗎𝗆𝖾 𝗌𝖼𝗈𝗋𝗂𝗇𝗀 & 𝗂𝗇𝗍𝖾𝗋𝗏𝗂𝖾𝗐 𝗌𝖼𝗁𝖾𝖽𝗎𝗅𝗂𝗇𝗀.</p>
       <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_AI-FFB6C1?style=flat-square" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/angelverman2021-a11y/duskydiaryapp">𝖣𝗎𝗌𝗄𝗒𝖣𝗂𝖺𝗋𝗒 𝖠𝗉𝗉</a></h3>
+      <h3><a href="https://github.com/angelverman2021-a11y/duskydiaryapp" style="color:#FFB6C1">𝖣𝗎𝗌𝗄𝗒𝖣𝗂𝖺𝗋𝗒 𝖠𝗉𝗉</a></h3>
       <p>𝖠𝖨/𝖬𝖫 𝖽𝗂𝖺𝗋𝗒 & 𝗌𝖺𝖿𝖾𝗍𝗒 𝗌𝗒𝗌𝗍𝖾𝗆. 𝖣𝗂𝗌𝗍𝗂𝗅𝖡𝖤𝖱𝖳 𝖿𝗈𝗋 𝗆𝗈𝗈𝖽 𝖽𝖾𝗍𝖾𝖼𝗍𝗂𝗈𝗇, 𝖱𝖺𝗇𝖽𝗈𝗆 𝖥𝗈𝗋𝖾𝗌𝗍 𝖿𝗈𝗋 𝗌𝖺𝖿𝖾𝗍𝗒 𝗉𝗋𝖾𝖽𝗂𝖼𝗍𝗂𝗈𝗇 — 𝖽𝖾𝗉𝗅𝗈𝗒𝖾𝖽 𝗈𝗇 𝖲𝗍𝗋𝖾𝖺𝗆𝗅𝗂𝗍.</p>
       <p><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /></p>
       <a href="https://duskydiaryapp-cvmnevt7plgo5t7td5yotd.streamlit.app">𝖫𝗂𝗏𝖾 𝖣𝖾𝗆𝗈</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/angelverman2021-a11y/PDS">𝖯𝖣𝖲 𝖯𝗅𝖺𝗍𝖿𝗈𝗋𝗆</a></h3>
+      <h3><a href="https://github.com/angelverman2021-a11y/PDS" style="color:#FFB6C1">𝖯𝖣𝖲 𝖯𝗅𝖺𝗍𝖿𝗈𝗋𝗆</a></h3>
       <p>𝖢𝗂𝗏𝗂𝖼-𝗍𝖾𝖼𝗁 𝗍𝗋𝖺𝗇𝗌𝗉𝖺𝗋𝖾𝗇𝖼𝗒 𝗉𝗋𝗈𝗍𝗈𝗍𝗒𝗉𝖾 𝖿𝗈𝗋 𝖨𝗇𝖽𝗂𝖺'𝗌 𝖯𝗎𝖻𝗅𝗂𝖼 𝖣𝗂𝗌𝗍𝗋𝗂𝖻𝗎𝗍𝗂𝗈𝗇 𝖲𝗒𝗌𝗍𝖾𝗆 — 𝗋𝖺𝗍𝗂𝗈𝗇 𝗏𝖾𝗋𝗂𝖿𝗂𝖼𝖺𝗍𝗂𝗈𝗇, 𝗋𝖾𝖼𝖾𝗂𝗉𝗍𝗌 & 𝖼𝗈𝗆𝗉𝗅𝖺𝗂𝗇𝗍𝗌.</p>
       <p><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /></p>
       <a href="https://pds-platform.vercel.app/">𝖫𝗂𝗏𝖾 𝖣𝖾𝗆𝗈</a>
@@ -112,7 +112,7 @@
   </tr>
 </table>
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 <br/>
 
@@ -141,10 +141,10 @@
 
 <br/>
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 _𝖡𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝖺𝖼𝖼𝖾𝗌𝗌𝗂𝖻𝗅𝖾 𝖺𝗇𝖽 𝗂𝗇𝗇𝗈𝗏𝖺𝗍𝗂𝗏𝖾 𝗐𝖾𝖻 𝖺𝗉𝗉𝗅𝗂𝖼𝖺𝗍𝗂𝗈𝗇𝗌 — 𝗈𝗇𝖾 𝗉𝗋𝗈𝗃𝖾𝖼𝗍 𝖺𝗍 𝖺 𝗍𝗂𝗆𝖾._
 
-∘₊✧──────────────────────────────────────────────✧₊∘
+<div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
 </div>
