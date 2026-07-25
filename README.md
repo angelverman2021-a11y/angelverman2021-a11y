@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="25%" height="200px" alt="banner" />
+<img src="https://raw.githubusercontent.com/angelverman2021-a11y/angelverman2021-a11y/main/bows.png" width="100%" height="120px" style="object-fit:cover" alt="banner" />
 
 <br/>
 
@@ -17,17 +17,13 @@
 
 <div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
 
-୨ৎ 𝖥𝗂𝗋𝗌𝗍-𝗒𝖾𝖺𝗋 𝖢𝖲 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 · 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 & 𝖻𝖺𝖼𝗄𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍
+୨ৎ 𝖢𝖲 𝗌𝗍𝗎𝖽𝖾𝗇𝗍 · 𝖿𝗎𝗅𝗅 𝗌𝗍𝖺𝖼𝗄 & 𝖻𝖺𝖼𝗄𝖾𝗇𝖽 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝗆𝖾𝗇𝗍
 
 ୨ৎ 𝖡𝗎𝗂𝗅𝖽𝗂𝗇𝗀 𝗐𝗂𝗍𝗁 **𝖫𝖫𝖺𝖬𝖠**, **𝖦𝗋𝗈𝗊 𝖠𝖯𝖨**, **𝖧𝗎𝗀𝗀𝗂𝗇𝗀𝖥𝖺𝖼𝖾** & **𝖱𝖠𝖦**
 
-୨ৎ 𝖥𝗈𝖼𝗎𝗌𝖾𝖽 𝗈𝗇 **𝖶𝖢𝖠𝖦 𝖺𝖼𝖼𝖾𝗌𝗌𝗂𝖻𝗂𝗅𝗂𝗍𝗒**, **𝖼𝗒𝖻𝖾𝗋𝗌𝖾𝖼𝗎𝗋𝗂𝗍𝗒** & **𝗀𝖾𝗈𝗌𝗉𝖺𝗍𝗂𝖺𝗅 𝗌𝗒𝗌𝗍𝖾𝗆𝗌**
+୨ৎ 𝖥𝗈𝖼𝗎𝗌𝖾𝖽 𝗈𝗇 **𝖶𝖢𝖠𝖦 𝖺𝖼𝖼𝖾𝗌𝗌𝗂𝖻𝗂𝗅𝗂𝗍𝗒**, **Machine learning** ,**𝖼𝗒𝖻𝖾𝗋𝗌𝖾𝖼𝗎𝗋𝗂𝗍𝗒** & **𝗀𝖾𝗈𝗌𝗉𝖺𝗍𝗂𝖺𝗅 𝗌𝗒𝗌𝗍𝖾𝗆𝗌**
 
 <div align="center">∘₊✧──────────────────────────────────────────────✧₊∘</div>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FFB6C1.svg?style=for-the-badge&logo=github&logoColor=black)](https://angelverman2021-a11y.github.io)
-[![Email](https://img.shields.io/badge/Email-%23FFB6C1.svg?style=for-the-badge&logo=gmail&logoColor=black)](mailto:angel.verman2021@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23FFB6C1.svg?style=for-the-badge&logo=github&logoColor=black)](https://github.com/angelverman2021-a11y)
 
   </td>
   </tr>
@@ -47,13 +43,13 @@
 
 <hr style="border:1px solid #FFB6C1;" />
 
-**✦ 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+**୨ৎ 𝖥𝗋𝗈𝗇𝗍𝖾𝗇𝖽** &nbsp; ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**✦ 𝖡𝖺𝖼𝗄𝖾𝗇𝖽** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**୨ৎ 𝖡𝖺𝖼𝗄𝖾𝗇𝖽** &nbsp; ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**✦ 𝖠𝖨 & 𝖣𝖺𝗍𝖺** &nbsp; ![LLaMA](https://img.shields.io/badge/LLaMA-FFB6C1?style=flat-square&logoColor=black) ![Groq](https://img.shields.io/badge/Groq_API-FFB6C1?style=flat-square&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+**୨ৎ 𝖠𝖨 & 𝖣𝖺𝗍𝖺** &nbsp; ![LLaMA](https://img.shields.io/badge/LLaMA-FFB6C1?style=flat-square&logoColor=black) ![Groq](https://img.shields.io/badge/Groq_API-FFB6C1?style=flat-square&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-**✦ 𝖳𝗈𝗈𝗅𝗌** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![A11y](https://img.shields.io/badge/WCAG_A11y-FFB6C1?style=flat-square&logoColor=black)
+**୨ৎ 𝖳𝗈𝗈𝗅𝗌** &nbsp; ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Chrome MV3](https://img.shields.io/badge/Chrome_MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![A11y](https://img.shields.io/badge/WCAG_A11y-FFB6C1?style=flat-square&logoColor=black)
 
 <hr style="border:1px solid #FFB6C1;" />
 
